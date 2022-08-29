@@ -8,6 +8,6 @@ more meta info as well.
 
 ### Resident Evil 4 (Resident Evil 4.xml)
 
-Profile has Gyro Mouse-like Joystick enabled and bound to Xbox LS with LT as the Gyro
-trigger. This allows the Gyro to be used for aiming while allowing the input stick to
-be used for movement.
+Profile uses Xbox 360 controller emulation. Gyro Mouse-like Joystick is enabled and
+it is bound to Xbox LS with R2 as the Gyro trigger. This allows the Gyro to be used for
+aiming while allowing the input stick to be used for movement.
