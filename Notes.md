@@ -6,6 +6,13 @@ more meta info as well.
 
 ## Notes
 
+### American Truck Simulator (ATS.xml)
+
+Profile uses Xbox 360 controller emulation with Accel tilt mapped to Xbox LS
+with 360 Gyro Steering Wheel mode enabled. That output mode allows the DS4
+to be held with the lightbar pointing up and act closely to a steering wheel for
+use in driving games.
+
 ### Doom 2016 (Doom 2016 JoyCon.xml)
 
 Profile uses KB+M mapping and is meant to be used with a pair of JoyCon controllers
