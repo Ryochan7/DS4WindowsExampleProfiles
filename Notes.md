@@ -27,3 +27,8 @@ Gyro movement for JoyCon R. 1 Euro smoothing is applied to the Gyro.
 Profile uses Xbox 360 controller emulation. Gyro Mouse-like Joystick is enabled and
 it is bound to Xbox LS with R2 as the Gyro trigger. This allows the Gyro to be used for
 aiming while allowing the input stick to be used for movement.
+
+### Senran Kagura Peach Beach Blast (Peach Beach Blast.xml)
+
+Profile uses Xbox 360 controller emulation. Gyro Mouse-like Joystick is enabled and
+it is bound to Xbox RS with Finger on Touchpad acting as a Reverse Gyro trigger.
