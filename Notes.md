@@ -22,6 +22,15 @@ used for the Gyro trigger as I find it easier to reach and causes less JoyCon mo
 Shoot is mapped to JoyCon ZL (L2) to not have a primary action cause excessive
 Gyro movement for JoyCon R. 1 Euro smoothing is applied to the Gyro.
 
+### Metal: Hellsinger (Hellsinger JoyCon.xml)
+
+Profile uses KB+M mapping and is meant to be used with a pair of JoyCon controllers
+held split. Gyro (JoyCon R) is mapped to Mouse with a higher dead zone than normal due
+to the JoyCon being more naturally shaky (one handed control). The Y button (West) is
+used for the Gyro trigger as I find it easier to reach and causes less JoyCon movement.
+Shoot is mapped to JoyCon ZL (L2) to not have a primary action cause excessive
+Gyro movement for JoyCon R. 1 Euro smoothing is applied to the Gyro.
+
 ### Resident Evil 4 (Resident Evil 4.xml)
 
 Profile uses Xbox 360 controller emulation. Gyro Mouse-like Joystick is enabled and
